@@ -4,10 +4,14 @@
 
 > Nomad Coder의 강의를 듣고 VanillaJS를 사용해 Momentum을 카피한 프로젝트입니다.
 
-[이동하기](https://engus93.github.io/01.VanillaJS)
+[코드 보러가기](https://github.com/engus93/engus93.github.io/tree/master/01.VanillaJS)
+
+[사이트 이동하기](https://engus93.github.io/01.VanillaJS)
 
 ## ReactJS - Movie App
 
 > Nomad Coder의 강의를 듣고 ReactJS 사용해 Movie App을 만든 프로젝트입니다.
 
-[이동하기](https://engus93.github.io/ReactJS_Movie_App/)
+[코드 보러가기](https://github.com/engus93/ReactJS_Movie_App)
+
+[사이트 이동하기](https://engus93.github.io/ReactJS_Movie_App/)
