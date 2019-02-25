@@ -16,7 +16,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://engus93.github.io/02.React_JS_Basic",
+  "homepage": "http://engus93.github.io/02.React_JS_Basic/public",
   "eslintConfig": {
     "extends": "react-app"
   },
