@@ -23,3 +23,11 @@
 #### CERTIFICATE OF GRADUATION
 
 ![ReactJS - Movie App](https://raw.githubusercontent.com/engus93/TIL/master/Nomad_Coders/02.React_Basic/certificate-of-completion-for-reactjs.png)
+
+## HTML, CSS - Web Standard
+
+> Web Standard를 연습한 사이트입니다.
+
+- [코드 보러가기](https://github.com/engus93/webStandard_basic)
+
+- [사이트 이동하기](https://engus93.github.io/webStandard_basic/)
