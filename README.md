@@ -24,7 +24,7 @@
 
 - [사이트 이동하기](https://engus93.github.io/webStandard_basic/)
 
-# Responsive Web
+## Responsive Web
 
 > Responsive Web을 연습한 사이트입니다.
 
