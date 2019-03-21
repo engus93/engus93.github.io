@@ -1,4 +1,4 @@
-# 완성 사이트
+# Momonto
 
 ## VanillaJS - Momonto
 
@@ -8,26 +8,4 @@
 
 - [사이트 이동하기](https://engus93.github.io/01.VanillaJS)
 
-## ReactJS - Movie App
-
-> Nomad Coder의 강의를 듣고 ReactJS 사용해 Movie App을 만든 프로젝트입니다.
-
-- [코드 보러가기](https://github.com/engus93/ReactJS_Movie_App)
-
-- [사이트 이동하기](https://engus93.github.io/ReactJS_Movie_App/)
-
-## HTML, CSS - Web Standard
-
-> Web Standard를 연습한 사이트입니다.
-
-- [코드 보러가기](https://github.com/engus93/webStandard_basic)
-
-- [사이트 이동하기](https://engus93.github.io/webStandard_basic/)
-
-## Responsive Web
-
-> Responsive Web을 연습한 사이트입니다.
-
-- [코드 보러가기](https://github.com/engus93/responsiveWebBasic/)
-
-- [사이트 이동하기](https://engus93.github.io/responsiveWebBasic/)
+### [Github - TIL로 이동하기](https://github.com/engus93/TIL)
